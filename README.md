@@ -1,3 +1,5 @@
+# Couscouqubic
+## Another attempt on getting a useful hiveOS integration
 Just another qliClient hiveOS integration compatible with dual mining (CPU + GPU).
 
 Based on a "cleaned" version of Eloworld (https://github.com/EloWord/hiveos).
