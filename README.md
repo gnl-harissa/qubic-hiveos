@@ -1,4 +1,4 @@
-# Couscouqubic
+# Couscou(qu)bic
 ## Another attempt on getting a useful hiveOS integration
 Just another qliClient hiveOS integration compatible with dual mining (CPU + GPU).
 
