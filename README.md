@@ -9,3 +9,6 @@ h-stats.sh was also adapted to get the statistics working.
 
 The release contains all scripts, the only binary in the package is the qliClient.
 Feel free to test & use, no fees, but you can buy me a coffee or a lambo : XRZWBAQPOYBISFSBIJARFWFKTMGBKQLMIWBVCHEYLBJBCEVJBRLOHUNEBCYC
+
+## Last Release
+v7-beta with qli-Client v 1.8.9
